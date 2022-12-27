@@ -1,0 +1,24 @@
+{
+  "name": "ecmascriptpractice",
+  "version": "1.0.0",
+  "description": "Practicas de NODE y ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeyostuff/ECMAScriptPractice.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "practice"
+  ],
+  "author": "Jason Ordóñez <jasongiovany@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeyostuff/ECMAScriptPractice/issues"
+  },
+  "homepage": "https://github.com/Yeyostuff/ECMAScriptPractice#readme"
+}
